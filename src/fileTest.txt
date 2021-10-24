@@ -1,0 +1,4 @@
+Name; Salary; Age
+Ivan; 200 000; 23
+Egor; 400 000; 30
+Petr; 150 000; 28
